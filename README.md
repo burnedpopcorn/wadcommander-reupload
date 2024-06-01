@@ -23,7 +23,7 @@ And Sound does work, but the size of the music files can be a bit too much for s
 > [!NOTE]
 > I recommend not including the folder itself into the server's storage, as you will have to specify that in the URL (EX: https://example.com/{FOLDER NAME}/index.html)
 >
-> but if you have different websites within the same domain, then you should consider including the folder to not disrupt your exsisting website
+> but if you have different websites within the same domain, then you should consider including the folder to not disrupt your existing website
 
 
 ### Credits
