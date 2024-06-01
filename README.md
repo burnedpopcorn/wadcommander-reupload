@@ -1,2 +1,2 @@
-# wadcommander-reupload
-A Re-Upload of WAD Commander (A Doom Launcher within the Browser)
+# WAD Commander
+This Repository is a Re-Upload of WAD Commander (A Doom Launcher within the Browser)
