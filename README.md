@@ -21,7 +21,7 @@ And Sound does work, but the size of the music files can be a bit too much for s
 - Visit the Site by inputting the path to the index.html file (EX: https://example.com/index.html)
 - Enjoy
 > [!NOTE]
-> I recommend not including the folder itself into the server's storage, as you will have to specify that in the URL (EX: https://example.com/{FOLDER NAME}/index.html)
+> I recommend not including the folder itself into the server's storage, as you will have to specify that in the URL (EX: https://example.com/ {FOLDER NAME} /index.html)
 >
 > but if you have different websites within the same domain, then you should consider including the folder to not disrupt your existing website
 
